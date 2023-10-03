@@ -1,0 +1,14 @@
+.key {
+    cursor: pointer;
+    border: 1px solid #EEE;
+    padding:25px;
+    background-color: #DDD;
+    transition: all 0.3s;
+    border-radius: 10px;
+}
+.key:hover {
+    background-color: #AAA;
+}
+.key span {
+    user-select: none;
+}

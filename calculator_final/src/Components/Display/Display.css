@@ -1,0 +1,12 @@
+.display {
+    border-radius: 10px;
+    background-color: #AAA;
+    border: 1px solid #DDD;
+    padding: 5px 20px;
+    margin-bottom:30px;
+}
+.display p {
+    margin:0;
+    text-align: right;
+    user-select: none;
+}
